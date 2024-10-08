@@ -1,0 +1,64 @@
+.body {
+    background: rgb(138, 121, 121);
+}
+.Judul {
+    color: #070707;
+    background: rgb(246,17,15);
+background: linear-gradient(90deg, rgba(246,17,15,1) 0%, rgba(255,255,255,1) 50%, rgba(17,245,34,1) 100%);
+    padding: 5px;
+    border-radius: 15px;
+    width: fit-content;
+    position: relative;
+    margin: 0% auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.slogan {
+    background-color: rgb(241, 128, 21);
+    margin: 5px auto;
+    text-align: center;
+    border-radius: 5px;
+    width: fit-content;
+} 
+.DI {
+    color: rgb(38, 0, 255);
+    background-color: antiquewhite;
+    padding: 5px;
+    border-radius: 5px;
+    width: fit-content;
+}
+.ISI {
+    background-color: aliceblue;
+    width: fit-content;
+    padding: 9px;
+    border-radius: 6px;
+}
+h2 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(56, 50, 42);
+    text-align: center;
+    width: 100%;
+    position: relative;
+    padding: 5px;
+    border-radius: 100px;
+
+}
+.sejarah {
+    color: #070707;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(48, 213, 59);
+    text-align: justify;
+
+}
+.tujuan {
+    color: rgb(0, 0, 0);
+    background-color: rgb(251, 248, 248);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+.Achievement {
+    color: rgb(255, 255, 255);
+    background-color: rgb(218, 43, 43);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
